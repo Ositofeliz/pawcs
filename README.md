@@ -21,7 +21,7 @@ USE nedss;
 ```
 
 
-Normalement, le fichier bdd.php a été modifiée pour pouvoir créer les tables d'annonces et de log une fois que la database nedss est selectionnée.    
+Normalement, le fichier bdd.php a été modifié pour pouvoir créer les tables d'annonces et de log une fois que la database nedss est selectionnée.    
 Il est possible alors d'utiliser les fichiers init.php et reset.php pour respectivement initialiser la base de données ou la supprimer. 
 
 
